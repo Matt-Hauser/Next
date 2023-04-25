@@ -1,0 +1,550 @@
+.InGame {
+  position: relative;
+  width: 515px;
+  height: 365px;
+  /* border: solid black 2px; */
+  top: -930px;
+  left: 115px;
+}
+
+.TestBox {
+  width: 100%;
+  height: 100px;
+  outline: solid 3px #bd3939;
+  border-radius: 5%;
+
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TB1 {
+  background-color: #930303;
+  width: 100%;
+  height: 50%;
+}
+.TB2 {
+  background-color: #841515;
+  width: 100%;
+  height: 50%;
+}
+.TestBox1 {
+  width: 36%;
+  height: 60px;
+  border-radius: 5px;
+  outline: solid 3px #d92e2e;
+  font-size: xx-large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to bottom,
+    rgb(128, 0, 0) 0%,
+    rgb(128, 0, 0) 50%,
+    rgb(158, 2, 2) 50%,
+    rgb(158, 2, 2) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox1:hover {
+  width: 36%;
+  height: 60px;
+  border-radius: 5px;
+  outline: solid 3px #b12626;
+  font-size: xx-large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to bottom,
+    rgb(105, 0, 0) 0%,
+    rgb(105, 0, 0) 50%,
+    rgb(129, 1, 1) 50%,
+    rgb(129, 1, 1) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox2 {
+  width: 36%;
+  height: 60px;
+  border-radius: 5px;
+  outline: solid 3px #04a421;
+  font-size: xx-large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(1, 138, 31) 0%,
+    rgb(1, 138, 31) 50%,
+    rgb(2, 123, 6) 50%,
+    rgb(2, 123, 6) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox2:hover {
+  width: 36%;
+  height: 60px;
+  border-radius: 5px;
+  outline: solid 3px #028019;
+  font-size: xx-large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(1, 107, 24) 0%,
+    rgb(1, 107, 24) 50%,
+    rgb(1, 99, 4) 50%,
+    rgb(1, 99, 4) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox3 {
+  width: 36%;
+  height: 60px;
+  border-radius: 5px;
+  outline: solid 3px #eca232;
+  font-size: xx-large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to bottom,
+    rgb(183, 123, 2) 0%,
+    rgb(183, 123, 2) 50%,
+    rgb(205, 138, 3) 50%,
+    rgb(205, 138, 3) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox3:hover {
+  width: 36%;
+  height: 60px;
+  border-radius: 5px;
+  outline: solid 3px #c28529;
+  font-size: xx-large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to bottom,
+    rgb(154, 103, 1) 0%,
+    rgb(154, 103, 1) 50%,
+    rgb(181, 121, 2) 50%,
+    rgb(181, 121, 2) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox4 {
+  width: 36%;
+  height: 60px;
+  border-radius: 5px;
+  outline: solid 3px #3f7bbf;
+  font-size: xx-large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(32, 79, 149) 0%,
+    rgb(32, 79, 149) 50%,
+    rgb(26, 65, 123) 50%,
+    rgb(26, 65, 123) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox4:hover {
+  width: 36%;
+  height: 60px;
+  border-radius: 5px;
+  outline: solid 3px #326196;
+  font-size: xx-large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(27, 67, 127) 0%,
+    rgb(27, 67, 127) 50%,
+    rgb(21, 52, 99) 50%,
+    rgb(21, 52, 99) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox5 {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  outline: solid 3px #3f7bbf;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(59, 107, 180) 0%,
+    rgb(59, 107, 180) 50%,
+    rgb(50, 92, 155) 50%,
+    rgb(50, 92, 155) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox5:hover {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  outline: solid 3px #3f7bbf;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(27, 67, 127) 0%,
+    rgb(27, 67, 127) 50%,
+    rgb(21, 52, 99) 50%,
+    rgb(21, 52, 99) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox6 {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  outline: solid 3px #eca232;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(183, 123, 2) 0%,
+    rgb(183, 123, 2) 50%,
+    rgb(205, 138, 3) 50%,
+    rgb(205, 138, 3) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox6:hover {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  outline: solid 3px #c28529;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(154, 103, 1) 0%,
+    rgb(154, 103, 1) 50%,
+    rgb(181, 121, 2) 50%,
+    rgb(181, 121, 2) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox7 {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  outline: solid 3px #d92e2e;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(128, 0, 0) 0%,
+    rgb(128, 0, 0) 50%,
+    rgb(158, 2, 2) 50%,
+    rgb(158, 2, 2) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox7:hover {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  outline: solid 3px #b12626;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(105, 0, 0) 0%,
+    rgb(105, 0, 0) 50%,
+    rgb(129, 1, 1) 50%,
+    rgb(129, 1, 1) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox8 {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  outline: solid 3px #04a421;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(1, 138, 31) 0%,
+    rgb(1, 138, 31) 50%,
+    rgb(2, 123, 6) 50%,
+    rgb(2, 123, 6) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.TestBox8:hover {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  outline: solid 3px #028019;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  text-shadow: #030303 0 3px;
+
+  background: linear-gradient(
+    to top,
+    rgb(1, 107, 24) 0%,
+    rgb(1, 107, 24) 50%,
+    rgb(1, 99, 4) 50%,
+    rgb(1, 99, 4) 100%
+  );
+  outline-offset: -7px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.battle-ui-container {
+  border: 6px solid #5b5b5b;
+  border-radius: 5px;
+  background-color: #222222;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.battle-ui-section {
+  border: 3px solid rgb(6, 6, 6);
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  width: fit-content;
+}
+
+.opponent-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.player-section {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+
+.move-choice-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pokemon-choice-section {
+  min-width: 250px;
+  max-width: 500px;
+}
+
+.battle-announcer-section {
+  display: flex;
+  justify-content: center;
+}
+
+.user,
+.opponent {
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 25px;
+  box-sizing: border-box;
+}
+.hud {
+  gap: 25px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.hudChild {
+  flex: 1;
+  height: 200px;
+}
+.gameHeader {
+  font-size: 48px;
+  color: #fdac00;
+  text-shadow: 0px 0px 5px #7f0000;
+  font-family: "Press Start 2P", cursive;
+}
+.summary {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.opponent .summary {
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.characters {
+  width: 100%;
+  text-align: center;
+}
+.gameImages {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  box-sizing: border-box;
+}
+
+.characters .gameImages img {
+  max-height: 25vh;
+  min-height: 150px;
+}
+
+.static {
+  transform: translateX(0px);
+  transform: translateY(0px);
+  transition: 0.5s;
+}
+
+.playerSprite .physical {
+  transition: 0.1s;
+  transform: translateX(100px);
+}
+.opponentSprite .physical {
+  transition: 0.1s;
+  transform: translateX(-100px);
+}
+
+.special {
+  transition: 0.2s;
+  transform: translateY(-25px);
+  animation: shake 0.5s infinite;
+}
+
+.damage {
+  opacity: 1;
+  animation: flash 0.3s 0.3s infinite;
+}
+
+@keyframes shake {
+  0% {
+    transform: translate(1px, 1px) rotate(0deg) translateY(-25px);
+  }
+  10% {
+    transform: translate(-1px, -2px) rotate(-1deg) translateY(-25px);
+  }
+  20% {
+    transform: translate(-3px, 0px) rotate(1deg) translateY(-25px);
+  }
+  30% {
+    transform: translate(3px, 2px) rotate(0deg) translateY(-25px);
+  }
+  40% {
+    transform: translate(1px, -1px) rotate(1deg) translateY(-25px);
+  }
+  50% {
+    transform: translate(-1px, 2px) rotate(-1deg) translateY(-25px);
+  }
+  60% {
+    transform: translate(-3px, 1px) rotate(0deg) translateY(-25px);
+  }
+  70% {
+    transform: translate(3px, 1px) rotate(-1deg) translateY(-25px);
+  }
+  80% {
+    transform: translate(-1px, -1px) rotate(1deg) translateY(-25px);
+  }
+  90% {
+    transform: translate(1px, 2px) rotate(0deg) translateY(-25px);
+  }
+  100% {
+    transform: translate(1px, -2px) rotate(-1deg) translateY(-25px);
+  }
+}
+
+@keyframes flash {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
